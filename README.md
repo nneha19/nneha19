@@ -8,6 +8,10 @@
 
 - ⚡ Motto - **(Muscle Memory + Logic) × Curiosity**
 
+- 🌿 I'm currently working on something cool ✨
+
+- 🔖 I'm currently learning **Backend and Blockchain**
+
 - 💬 You can ask me anything about **React, Node and MongoDB**
   
 - 🤝 I’m looking to collaborate on **Backend projects**

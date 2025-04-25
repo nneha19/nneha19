@@ -1,10 +1,13 @@
-<h1 align="center">Hi🌷, I'm Neha Ghariyal</h1>
-<h3 align="center">Full Stack Developer</h3>
+<img src="./header.png"/>
 <br/>
 
 <p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ256cDVqejd5bTQyOGs3YjcxeWhwcm0wNWl0cnMyMnZndWpnZ245MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" align="right" height="180"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhmcjAxYmw4YmJhejR5ZW8wOXpidjRxaWU0NXNoZXd2eHF1eGF5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" align="right" height="220"/>
+
+  
 </p>
+
+
 
 - ⚡ Motto - **(Muscle Memory + Logic) × Curiosity**
 

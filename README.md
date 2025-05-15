@@ -24,11 +24,12 @@
 <br/>
 
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nneha19" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nneha19&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nneha19&" alt="nneha19" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nneha19&show_icons=true&locale=en" alt="nneha19" /></td>
+  </tr>
+</table>
 
 
 
